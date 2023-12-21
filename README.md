@@ -1,6 +1,7 @@
 
 mac-control-volume
 macOS 下控制系统音量。
+others：[windows 下控制系统音量](https://github.com/houchaowei/win-control-volume)
 
 done：
 
